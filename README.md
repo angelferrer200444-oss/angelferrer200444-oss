@@ -57,9 +57,9 @@ Estos son solo algunos de mis proyectos. Continúo trabajando en nuevas ideas, e
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelferrer200444-oss&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+<img src="https://github-stats-extended.vercel.app/api?username=angelferrer200444-oss&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="100%" alt="Estadísticas de GitHub">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelferrer200444-oss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=angelferrer200444-oss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Lenguajes más utilizados">
 
 </div>
 
