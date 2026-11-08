@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Angel Ferrer - Estudiante y desarrollador">
+  <img src="assets/banner1.png" width="100%" alt="Angel Ferrer - Estudiante y desarrollador">
 </div>
 
 # 👾 ¡Hola! Soy Angel Ferrer
