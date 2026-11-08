@@ -35,24 +35,6 @@ También me gusta mantenerme al día con las nuevas tendencias en **Inteligencia
 
 ---
 
-## 🚀 Proyectos destacados
-
-### 🐺 Cuentos de Cacería
-
-Aplicación web para la creación y personalización de personajes de un sistema de rol. Incluye generación de fichas dinámicas, selección de arquetipos, oficios y diferentes características.
-
-🔗 [Ver repositorio](https://github.com/angelferrer200444-oss/Cuento-de-Caceria---Creacion-de-Hoja)
-
-### 📚 Book Wellness
-
-Aplicación web para gestionar y realizar seguimiento de hábitos de lectura. Desarrollada con Python, Flask y MySQL, permite organizar libros y registrar el progreso de lectura.
-
-### 🔮 Más proyectos en camino...
-
-Estos son solo algunos de mis proyectos. Continúo trabajando en nuevas ideas, explorando tecnologías y desarrollando aplicaciones que me permitan seguir creciendo como programador.
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -69,7 +51,7 @@ Estos son solo algunos de mis proyectos. Continúo trabajando en nuevas ideas, e
 
 ¿Tienes alguna idea, propuesta o proyecto interesante? ¡Me gustaría conocerlo!
 
-- 📧 **Correo:** [angelferrer200@gmail.com](mailto:angelferrer200@gmail.com)
+- 📧 **Correo:** [angelferrer200444@gmail.com](mailto:angelferrer200444@gmail.com)
 - 🐙 **GitHub:** [@angelferrer200444-oss](https://github.com/angelferrer200444-oss)
 
 ---
